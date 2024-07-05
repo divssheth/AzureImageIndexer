@@ -1,0 +1,4 @@
+.venv/
+credentials.env
+query_search.ipynb
+query_search.py
